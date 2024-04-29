@@ -1,4 +1,5 @@
 ### Hey, I'm Dharsaa 👋
+___
 
 I am a 3rd year <u>[Management Engineering](https://uwaterloo.ca/future-students/programs/management-engineering)</u> student at the University of Waterloo. I am currently seeking a ***Winter 2025 (Jan-Apr)*** internship relating to data analytics/engineering and technical product/project management!
 
